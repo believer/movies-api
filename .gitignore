@@ -3,3 +3,4 @@ rethinkdb_data
 .DS_Store
 .jshintrc
 deploy.sh
+rethink*
