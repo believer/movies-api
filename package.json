@@ -18,6 +18,7 @@
     "rethinkdb": "^2.0.2"
   },
   "devDependencies": {
+    "eslint": "^1.9.0",
     "moviedb": "^0.2.0"
   }
 }
