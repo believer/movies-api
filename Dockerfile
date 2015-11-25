@@ -1,4 +1,4 @@
-FROM iojs
+FROM node:4
 ADD package.json /app/
 WORKDIR /app
 RUN npm install
