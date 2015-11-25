@@ -5,11 +5,12 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node lib/index.js"
+    "start": "nodemon lib/index.js"
   },
   "author": "Rickard Laurin <rickard.laurin@gmail.com> (http://rickardlaurin.se/)",
   "license": "ISC",
   "dependencies": {
+    "babel-core": "^6.2.1",
     "bcrypt": "^0.8.4",
     "lodash": "^3.10.0",
     "moment": "^2.10.6",
