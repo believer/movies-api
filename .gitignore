@@ -4,3 +4,4 @@ rethinkdb_data
 .jshintrc
 deploy.sh
 rethink*
+npm-debug.log
