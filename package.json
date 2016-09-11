@@ -17,8 +17,8 @@
     "moment": "^2.10.6",
     "omdb": "^0.5.0",
     "request": "^2.60.0",
-    "restify": "^4.0.4",
-    "rethinkdb": "^2.0.2"
+    "restify": "^3.0.3",
+    "rethinkdb": "^2.2.3"
   },
   "devDependencies": {
     "eslint": "^2.8.0",
