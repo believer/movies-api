@@ -12,16 +12,16 @@
   "dependencies": {
     "babel-core": "^6.2.1",
     "bcrypt": "^0.8.4",
-    "lodash": "^3.10.0",
+    "lodash": "^4.11.1",
     "md5": "^2.0.0",
     "moment": "^2.10.6",
     "omdb": "^0.5.0",
     "request": "^2.60.0",
-    "restify": "^3.0.3",
+    "restify": "^4.0.4",
     "rethinkdb": "^2.0.2"
   },
   "devDependencies": {
-    "eslint": "^1.9.0",
+    "eslint": "^2.8.0",
     "moviedb": "^0.2.0"
   }
 }
